@@ -1,6 +1,6 @@
 # Segmentation Outdoor Scene
 
-**F4B516C Lot2: Segmentation Outdoor Scene **
+**F4B516C Lot2: Segmentation Outdoor Scene**
 
 Authors: **COSNE Gautier & TOUFAN TABRIZI Chayan**
 
@@ -8,7 +8,7 @@ Authors: **COSNE Gautier & TOUFAN TABRIZI Chayan**
 **You should enable GPU**
 
 
-###Objective  : 
+### Objective  : 
 
 Outdoors displacement is among the navigation tasks of mobile autonomous devices.Such displacement may take place in particular environments, like rural roads, characterized by a restricted set of scene elements that surround the displacements. 
 Road scene segmentation is important for autonomous driving and pedestrian detection. 
@@ -30,7 +30,7 @@ This project proposes to implement a road segmentation algorithm using a Fully C
 * **model** folder is used to save the pre-trained model
 * **FineTuneModel** folder is used to save our trained model to compare with the pre-trained model
 * **TrainedModel** folder is used to save our trained model
-* **runs ** folder contains the segmentation examples of the testing data
+* **runs** folder contains the segmentation examples of the testing data
 
 
 ---
