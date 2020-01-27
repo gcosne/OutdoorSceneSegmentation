@@ -17,7 +17,7 @@ This project proposes to implement a road segmentation algorithm using a Fully C
 
 ### Demo of outdoor Brest Campus scene segmentation using DeepLab
 
-[![](https://media.giphy.com/media/eBfnH4HbPtXKja3HzJ/giphy.gif)](https://drive.google.com/file/d/1KYI6OrjJZpr0qxU1jgyCLw4LHZ6xCmoC/preview)
+![](gif_campus.gif)
 
 ---
 
